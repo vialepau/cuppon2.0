@@ -1,0 +1,23 @@
+{
+  "name": "cuppon2.0",
+  "version": "1.0.0",
+  "description": "",
+  "main": "mailer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cuppon": "nodemon assets/js/index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.2",
+    "express": "^4.17.3",
+    "follow-redirects": "^1.14.9",
+    "nodemailer": "^6.7.3",
+    "process": "^0.11.10",
+    "utils": "^0.3.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}

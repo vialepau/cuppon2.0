@@ -1,0 +1,134 @@
+html {
+    font-family: 'Roboto', sans-serif ;
+}
+body{
+    font-family: 'Roboto', sans-serif;
+}
+h1{
+    color: #707070;
+    text-align: center;
+    font-weight: 700;
+}
+
+h3{
+    color: white;
+    text-align: center;
+    font-weight: 700;    
+}
+
+h5{
+    color: #212529;
+    font-weight: 400;
+}
+
+p{
+    color: #373A3C;
+    font-weight: 300;
+}
+.navbar-light .navbar-nav .nav-link {
+     color: white; 
+     font-weight: 300;
+}
+.centrado{
+    text-align: left;
+}
+#comidas{
+    margin-bottom: 50px;
+}
+#comidas.card {
+    margin-bottom: 50px;
+}
+.card{
+    margin-bottom: 64px;
+    margin: auto;
+    width: 18rem;
+}
+.card div h5 p {
+    text-align: -webkit-center;
+}
+.cards{
+        background-color: #17A2B8;
+        height: 180px;
+        
+}
+.card-body{
+    display: block;
+}
+
+.card-body .precio{
+    display: block;
+    float: right;
+}
+.card-body .subtitle{
+    font-weight: 300;
+    font-size: 16px;
+}
+.card-body .subtitle2{
+    font-weight: 300;
+    font-size: 13px;
+}
+.tachado{
+    text-decoration:line-through;
+    text-decoration-color: #e40707;
+    
+    
+}
+.green{
+    color: #28A745;
+    font-size: 20px;
+    font-weight: 500;
+}
+.valor {
+    padding: 0 22px;
+}
+
+.navbar{
+    background-color: #28A745;
+}
+
+/* Formulario */
+.formulario h4{
+    font-family: "Roboto";
+    color: #ffffff;
+    font-size: 24px;
+    font-weight: 400 !important; 
+}
+
+.btn-info {
+    color: #212529;
+    background-color: #ffffff;
+    width: 112px;
+    height: 42px;
+    font-size: 16px;
+    font-weight: 500;
+    
+}
+
+.btn-info:hover{
+    background-color: grey;
+}
+
+.logo-footer{
+    text-align: center;
+    height: 118px;
+}
+.logo-footer img{
+    height: 24px;
+    width: 82px;    
+
+}
+
+
+.suri img:hover{
+    transform: rotate(90deg);
+}
+/*
+@media only screen and (max-width: 760px) {
+    .logo-footer img{
+        max-width: 36px;
+        width: 100%;
+        margin-top: 60px;
+        height: 67px;
+    
+    }
+}*/
