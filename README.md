@@ -1,12 +1,12 @@
-CUPPON 2.0
+# CUPPON 2.0
 
-Scroll desde los botones del nav
-Formulario funcional
+## Scroll desde los botones del nav
+## Formulario funcional
 
 
 *** para iniciar servidor ***
 
-       npm run cuppon
+      `npm run cuppon`
        
 ---------------------------------------------------------------
  +++ RECUERDA PRIMERO HACER UN    npm install
@@ -16,3 +16,6 @@ Formulario funcional
 
 -->>> El correo gmail dejará de funcionar en mayo de 2022... 
       sientase libre de modificar esos datos a su gusto. <<<--
+      
+ **tengo problemas para cargar el css luego de enviar el Formulario**
+ **si alguien sabe la solucion, se lo agradeceria XD**
